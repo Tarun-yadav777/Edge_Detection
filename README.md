@@ -13,7 +13,7 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ### Demo
-![Image](static/grayed image.PNG)
+![Project Image](static/homegrayed_image.PNG)
 ![GIF](./static/gif.gif)
 
 ---
