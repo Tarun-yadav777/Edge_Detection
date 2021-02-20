@@ -24,8 +24,6 @@ This app is created to detect all the edges in a photo or we can use it to detec
 
 ### How To Use
 
-## How to get the API key?
-
 You can simply download the code though zip download option or clone or fork the repo then run it in your favourite IDE or Notebooks and play with trackbars which are the parameter of the Canny function.
 
 ### References
